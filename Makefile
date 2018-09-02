@@ -1,2 +1,2 @@
 test:
-	clang source/Main.c -lSDL2
+	clang source/Constants.h source/Main.c source/Memory.h source/NES.h source/Registers.h -lSDL2
