@@ -1,0 +1,13 @@
+language: c
+compiler:
+  - gcc
+  - clang
+install: true
+addons:
+  apt:
+    packages:
+      - libsdl2-2.0-0
+      - libsdl2-dev
+env: PATH=".:$PATH"
+script:
+  - make test
