@@ -1,6 +1,6 @@
 # NESt
 
-[![Build Status](https://travis-ci.org/connerturmon/nest.svg?branch=master)](https://travis-ci.org/connerturmon/nest)
+[![Build Status](https://travis-ci.org/connerturmon/nest.svg?branch=master)](https://travis-ci.org/connerturmon/nest) [![Join the chat at https://gitter.im/connerturmon-nest/Lobby](https://badges.gitter.im/connerturmon-nest/Lobby.svg)](https://gitter.im/connerturmon-nest/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 NESt is a NES emulator written in the C language using the SDL2 framework
 to handle input, graphics, and audio.
